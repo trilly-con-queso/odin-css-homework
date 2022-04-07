@@ -1,0 +1,20 @@
+.odd {
+    background-color: #FF8B8B;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numtwo {
+    color: #4ECDC4;
+    font-size: 32px;
+}
+
+.weird {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#numfour {
+    background-color: #5CFFB3;
+    font-size: 24px;
+    font-weight: bold;
+}
